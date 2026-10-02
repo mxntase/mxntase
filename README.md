@@ -12,18 +12,8 @@
 
 - 🎂 I am 17 y.o.
 - 🎓 Study in college
-- 🏀 Play basketball and football
+- 📺 I love watching anime
 - 🌍 Study english
-
----
-
-## 🛠️ Language
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
 
 ---
 
@@ -34,6 +24,16 @@
   <img src="https://img.shields.io/badge/Dota_2-BF2E1F?style=for-the-badge&logo=dota2&logoColor=white" alt="Dota 2"/>
   <img src="https://img.shields.io/badge/CS2-1B2838?style=for-the-badge&logo=counterstrike&logoColor=white" alt="CS2"/>
   <img src="https://img.shields.io/badge/Deadlock-8B0000?style=for-the-badge&logo=steam&logoColor=white" alt="Deadlock"/>
+</p>
+
+---
+
+## 🛠️ Language
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ---

@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello, mxnatse</h1>
+<h1 align="center">hello, mxnatse</h1>
 <h3 align="center">💤 My salvation is just to sleep and see a happy dream</h3>
 <p align="center">
   <img src="https://i.pinimg.com/736x/2a/f5/65/2af56521db6bc95f322191080efa24ff.jpg" alt="Баннер" width="100%">
@@ -49,9 +49,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ТВОЙ_НИК&label=Просмотры+профиля&color=36BCF7&style=flat" alt="Profile views"/>
-</p>
-
-<p align="center">
-  <i>"My salvation is just to sleep and see a happy dream"</i> 💭
+  <i>"Try not to hate me too much, okay?"</i> 💭
 </p>

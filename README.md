@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://i.pinimg.com/736x/2a/f5/65/2af56521db6bc95f322191080efa24ff.jpg" alt="Баннер" width="100%">
 </p>
+▬▬ι═══════ﺤ
 
 
 ---

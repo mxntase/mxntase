@@ -38,7 +38,7 @@ I am 17 years old and am studying programming at college. I play football and ba
 ## ⟡ Contact
 
 <p align="left">
-  <a href="mailto:твоя.почта@example.com">
+  <a href="belovartyom119@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>

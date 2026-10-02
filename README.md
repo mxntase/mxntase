@@ -1,11 +1,7 @@
 
 <h1 align="center">Hello, mxnatse</h1>
 <h3 align="center">💤 My salvation is just to sleep and see a happy dream</h3>
-![Header](https://i.pinimg.com/736x/2a/f5/65/2af56521db6bc95f322191080efa24ff.jpg)
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Student+%7C+Developer+%7C+Athlete;HTML+%7C+Python+%7C+Git;Always+learning+something+new+🚀" alt="Typing SVG" />
-</p>
+!Header(https://i.pinimg.com/736x/2a/f5/65/2af56521db6bc95f322191080efa24ff.jpg)
 
 ---
 

@@ -37,11 +37,9 @@ I am 17 years old and am studying programming at college. I play football and ba
 
 ## ⟡ Contact
 
-<p align="left">
-  <a href="belovartyom119@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=belovartyom119@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
 ---
 

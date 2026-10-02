@@ -10,10 +10,7 @@
 
 ## 🧑‍💻 About me
 
-- 🎂 I am 17 y.o.
-- 🎓 Study in college
-- 📺 I love watching anime
-- 🌍 Study english
+I am 17 years old and am studying programming at college. I play football and basketball. I speak English fluently.
 
 ---
 

@@ -1,6 +1,6 @@
 
 <h1 align="center">mxntase</h1>
-<h3 align="center">💤 My salvation is just to sleep and see a happy dream</h3>
+<h3 align="center">💤 My salvation is just to sleep and see a happy dream 💤</h3>
 <p align="center">
   <img src="https://i.pinimg.com/736x/2a/f5/65/2af56521db6bc95f322191080efa24ff.jpg" alt="Баннер" width="100%">
 </p>

@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello, mxnatse</h1>
 <h3 align="center">💤 My salvation is just to sleep and see a happy dream</h3>
-![Header](https://i.pinimg.com/736x/81/c5/74/81c57435e888e58d97ffe7bd2123ff2a.jpg)
+![Header](https://i.pinimg.com/736x/2a/f5/65/2af56521db6bc95f322191080efa24ff.jpg)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Student+%7C+Developer+%7C+Athlete;HTML+%7C+Python+%7C+Git;Always+learning+something+new+🚀" alt="Typing SVG" />
@@ -11,11 +11,10 @@
 
 ## 🧑‍💻 About me
 
-- 🎂 Мне **17 лет**
-- 🎓 Учусь в **колледже**
-- 🏀 Играю в **баскетбол** и **футбол**
-- 🌍 Изучаю **иностранные языки**
-- 💻 Постоянно развиваюсь в программировании
+- 🎂 I am 17 y.o.
+- 🎓 Study in college
+- 🏀 Play basketball and football
+- 🌍 Study english
 
 ---
 

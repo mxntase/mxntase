@@ -4,18 +4,17 @@
 <p align="center">
   <img src="https://i.pinimg.com/736x/2a/f5/65/2af56521db6bc95f322191080efa24ff.jpg" alt="Баннер" width="100%">
 </p>
-▬▬ι═══════ﺤ
 
 
 ---
 
-## 🧑‍💻 About me
+## ✦ About me
 
 I am 17 years old and am studying programming at college. I play football and basketball. I speak English fluently.
 
 ---
 
-## 🎮 Game
+## 🃁 Game
 
 <p align="left">
   <img src="https://img.shields.io/badge/Fortnite-2C2E3B?style=for-the-badge&logo=fortnite&logoColor=white" alt="Fortnite"/>
@@ -26,7 +25,7 @@ I am 17 years old and am studying programming at college. I play football and ba
 
 ---
 
-## 🛠️ Language
+## ✞ Language
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -36,7 +35,7 @@ I am 17 years old and am studying programming at college. I play football and ba
 
 ---
 
-## 📫 Contact
+## ⟡ Contact
 
 <p align="left">
   <a href="mailto:твоя.почта@example.com">

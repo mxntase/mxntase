@@ -17,10 +17,10 @@ I am 17 years old and am studying programming at college. I play football and ba
 ## 🃁 Game
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Fortnite-2C2E3B?style=for-the-badge&logo=fortnite&logoColor=white" alt="Fortnite"/>
-  <img src="https://img.shields.io/badge/Dota_2-BF2E1F?style=for-the-badge&logo=dota2&logoColor=white" alt="Dota 2"/>
-  <img src="https://img.shields.io/badge/CS2-1B2838?style=for-the-badge&logo=counterstrike&logoColor=white" alt="CS2"/>
-  <img src="https://img.shields.io/badge/Deadlock-8B0000?style=for-the-badge&logo=steam&logoColor=white" alt="Deadlock"/>
+  <img src="https://img.shields.io/badge/Fortnite-000000?style=for-the-badge&logo=fortnite&logoColor=white" alt="Fortnite"/>
+  <img src="https://img.shields.io/badge/Dota_2-000000?style=for-the-badge&logo=dota2&logoColor=white" alt="Dota 2"/>
+  <img src="https://img.shields.io/badge/CS2-000000?style=for-the-badge&logo=counterstrike&logoColor=white" alt="CS2"/>
+  <img src="https://img.shields.io/badge/Deadlock-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Deadlock"/>
 </p>
 
 ---

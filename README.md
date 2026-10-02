@@ -46,5 +46,5 @@ I am 17 years old and am studying programming at college. I play football and ba
 ---
 
 <p align="center">
-  <i>"Try not to hate me too much, okay?"</i> 💭
+  <i>"Try not to hate me too much, okay?"</i>
 </p>

@@ -10,7 +10,7 @@
 
 ## ✦ About me
 
-I am 17 years old and am studying programming at college. I play football and basketball. I speak English fluently.
+I am 17 years old and am studying programming at college. I play football and basketball, and i am also speak English fluently.
 
 ---
 
